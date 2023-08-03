@@ -22,7 +22,7 @@ Enter Your Password:
 
 My Classes:
 
-#   COURSE NAME  INSTRUCTOR NAME
+  COURSE NAME  INSTRUCTOR NAME
 
 1   GYM                Mark        
 
